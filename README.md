@@ -8,7 +8,7 @@ PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhi
 
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's responsiveness, UI design, and easily-extended architecture. PushingBoundaries was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design, and makes extensive use of UIView animations.  
 
-<p align="center">-->
+<p align="center">
 <img src="images/PushingBoundaries/PushingBoundariesMockUpiPhoneXR.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>
 </p>
 
@@ -19,4 +19,4 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 - Email: laurentbrusa@me.com
 - LinkedIn: [laurentBrusa](https://www.linkedin.com/in/laurentbrusa)
 - Twitter: [@wrmultitudes](https://twitter.com/wrmultitudes)
-- Website: [multitudes](https://multitudes.github.io)
+- Website: [multitudes.github.io](https://multitudes.github.io)
