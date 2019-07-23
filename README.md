@@ -1,4 +1,4 @@
-<a href="https://multitudes.github.io/about.html" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:laurentbrusa@me.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/laurentbrusa" target="_blank"><img src="https://img.shields.io/badge/linkedin-laurentBrusa-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/wrmultitudes" target="_blank"><img src="https://img.shields.io/badge/twitter-wrmultitudes-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://multitudes.github.io/about.html" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:laurentbrusa@me.com"><img src="https://img.shields.io/badge/Email-laurent brusa-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/laurentbrusa" target="_blank"><img src="https://img.shields.io/badge/linkedin-laurentBrusa-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/wrmultitudes" target="_blank"><img src="https://img.shields.io/badge/twitter-wrmultitudes-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <!-- # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
@@ -15,6 +15,6 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 # Contact Info:
 
 - Email: laurentbrusa@me.com
-- LinkedIn: [laurentBrusa](www.linkedin.com/in/laurentbrusa)
+- LinkedIn: [laurentBrusa](https://www.linkedin.com/in/laurentbrusa)
 - Twitter: [@wrmultitudes](https://twitter.com/wrmultitudes)
 - Website: [multitudes](https://multitudes.github.io)
