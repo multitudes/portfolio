@@ -21,4 +21,4 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 - Twitter: [@wrmultitudes](https://twitter.com/wrmultitudes)
 - Website: [multitudes.github.io](https://multitudes.github.io)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
