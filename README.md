@@ -17,6 +17,6 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 # Contact Info:
 
 - Email: laurentbrusa@me.com
-- LinkedIn: [laurentBrusa](https://www.linkedin.com/in/laurentbrusa)
+- LinkedIn: [LaurentBrusa](https://www.linkedin.com/in/laurentbrusa)
 - Twitter: [@wrmultitudes](https://twitter.com/wrmultitudes)
 - Website: [multitudes.github.io](https://multitudes.github.io)
