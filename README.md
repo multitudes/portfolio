@@ -17,7 +17,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 ## Playground: Emoji Memory Game
 
 <p align="center">
-<img src="/assets/img/portfolio/emojiMemoryCards.gif" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
