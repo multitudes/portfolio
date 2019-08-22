@@ -16,7 +16,10 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 # Projects
 ## Playground: Emoji Memory Game
 
+
 <p align="center">
+  <img src="images/emojiMemoryCards/emojiMemoryCards2.png" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/emojiMemoryCards/emojiMemoryCards3.png" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
