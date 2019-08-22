@@ -12,7 +12,17 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 <img src="images/PushingBoundaries/PushingBoundariesMockUpiPhoneXR.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
+# Projects
+## Playground: Emoji Memory Game
+
+<p align="center">
+<img src="assets/img/portfolio/emojiMemoryCards.gif" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 ## Thanks for stopping by!
+
 
 # Contact Info:
 
