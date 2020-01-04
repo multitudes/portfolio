@@ -1,4 +1,4 @@
-<a href="https://multitudes.github.io/about.html" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:laurentbrusa@me.com"><img src="https://img.shields.io/badge/Email-laurent-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/laurentbrusa" target="_blank"><img src="https://img.shields.io/badge/linkedin-laurentBrusa-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/wrmultitudes" target="_blank"><img src="https://img.shields.io/badge/twitter-wrmultitudes-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/multitudes/multitudes.github.io/blob/master/assets/cv/cv-for-Github.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:laurentbrusa@me.com"><img src="https://img.shields.io/badge/Email-laurent-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/laurentbrusa" target="_blank"><img src="https://img.shields.io/badge/linkedin-laurentBrusa-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/wrmultitudes" target="_blank"><img src="https://img.shields.io/badge/twitter-wrmultitudes-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. 
@@ -9,13 +9,19 @@ PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhi
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's responsiveness, UI design, and easily-extended architecture. PushingBoundaries was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design, and makes extensive use of UIView animations.  
 
 <p align="center">
-<img src="images/PushingBoundaries/PushingBoundariesMockUpiPhoneXR.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/PushingBoundaries/pushingBoundaries1.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/PushingBoundaries/pushingBoundaries2.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/PushingBoundaries/pushingBoundaries3.gif" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 # Projects
 ## Playground: Emoji Memory Game
 
+This is the final project for the certificate of the 100 Days of Swift by Paul Hudson. The challenge was to create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs.  
+I coded it in Xcode Playgrounds for mac using the Live View.  
+it really only has three states: the player has chosen zero cards, the player has chosen one card (flip it over), and the player has chosen two cards (flip the second one over). When they’ve chosen two cards I need to decide whether I have a match, then either remove the cards or flip them back down and go back to the first state.   
+I enjoyed doing the project. It has not been trivial and I used emojis for the cards. To do so I had to convert a font or character to an image with a string extension. Many things in this project have required careful consideration. For fun, I made emoji confetti to be shown when the game ends.
 
 <p align="center">
   <img src="images/emojiMemoryCards/emojiMemoryCards2.png" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
