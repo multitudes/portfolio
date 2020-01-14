@@ -3,7 +3,8 @@
 # Hello!
 This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. 
 
-# PushingBoundaries
+# iOS Apps
+## PushingBoundaries
 PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany, which I recently built during my internship. The specs were to build a basic museum app, and later to extend it with augmented reality. I decided to build something a bit more informative, creative, and colourful than just a basic AR app. The 3D models are organized in a table view for easy scrolling and searching.
 
 I'm pleased with how the project came out. I like the app's responsiveness, UI design, and easily-extended architecture. PushingBoundaries was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design and makes extensive use of UIView animations.  
@@ -15,7 +16,7 @@ I'm pleased with how the project came out. I like the app's responsiveness, UI d
 </p>
 
 
-# Projects
+# iOS Projects
 ## Playground: Emoji Memory Game
 
 This is the final project for the certificate of the 100 Days of Swift by Paul Hudson. The challenge was to create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs.  
