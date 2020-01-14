@@ -30,7 +30,7 @@ I enjoyed doing the project. It has not been trivial and I used emojis for the c
 <img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Thanks for stopping by!
+### Thanks for stopping by!
 
 # Contact Info:
 
