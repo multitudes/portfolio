@@ -4,9 +4,9 @@
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. 
 
 # PushingBoundaries
-PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany , which I recently built as a take-home project. The specs were to build a basic museum app, and to then extend it with augmented reality. I decided to run with it and build something a bit more informative, creative, and colorful. In my app, the 3D models are organized in table view for easy scrolling and searching and then thenks to image tracking in iOS, when the visitor point the camera to an exhibit,  a video will be superimposed on the back camera view with augmented reality
+PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany, which I recently built during my internship. The specs were to build a basic museum app, and later to extend it with augmented reality. I decided to build something a bit more informative, creative, and colourful than just a basic AR app. The 3D models are organized in a table view for easy scrolling and searching.
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's responsiveness, UI design, and easily-extended architecture. PushingBoundaries was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design, and makes extensive use of UIView animations.  
+I'm pleased with how the project came out. I like the app's responsiveness, UI design, and easily-extended architecture. PushingBoundaries was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design and makes extensive use of UIView animations.  
 
 <p align="center">
   <img src="images/PushingBoundaries/pushingBoundaries1.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 This is the final project for the certificate of the 100 Days of Swift by Paul Hudson. The challenge was to create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs.  
 I coded it in Xcode Playgrounds for mac using the Live View.  
-it really only has three states: the player has chosen zero cards, the player has chosen one card (flip it over), and the player has chosen two cards (flip the second one over). When they’ve chosen two cards I need to decide whether I have a match, then either remove the cards or flip them back down and go back to the first state.   
+it only has three states: the player has chosen zero cards, the player has chosen one card (flip it over), and the player has chosen two cards (flip the second one over). When they’ve chosen two cards I need to decide whether I have a match, then either remove the cards or flip them back down and go back to the first state.   
 I enjoyed doing the project. It has not been trivial and I used emojis for the cards. To do so I had to convert a font or character to an image with a string extension. Many things in this project have required careful consideration. For fun, I made emoji confetti to be shown when the game ends.
 
 <p align="center">
@@ -28,10 +28,6 @@ I enjoyed doing the project. It has not been trivial and I used emojis for the c
   <img src="images/emojiMemoryCards/emojiMemoryCards3.png" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-
-## Thanks for stopping by!
-
 
 # Contact Info:
 
