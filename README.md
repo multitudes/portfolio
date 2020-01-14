@@ -1,7 +1,7 @@
 <a href="assets/cv-for-Github.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:laurentbrusa@me.com"><img src="https://img.shields.io/badge/Email-laurent-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/laurentbrusa" target="_blank"><img src="https://img.shields.io/badge/linkedin-laurentBrusa-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/wrmultitudes" target="_blank"><img src="https://img.shields.io/badge/twitter-wrmultitudes-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 # Hello!
-*Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. 
+This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. 
 
 # PushingBoundaries
 PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany, which I recently built during my internship. The specs were to build a basic museum app, and later to extend it with augmented reality. I decided to build something a bit more informative, creative, and colourful than just a basic AR app. The 3D models are organized in a table view for easy scrolling and searching.
@@ -28,6 +28,8 @@ I enjoyed doing the project. It has not been trivial and I used emojis for the c
   <img src="images/emojiMemoryCards/emojiMemoryCards3.png" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="230"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+## Thanks for stopping by!
 
 # Contact Info:
 
