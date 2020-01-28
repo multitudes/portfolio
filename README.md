@@ -12,7 +12,7 @@ Using the GitHub API, it displays the followers of an user, allowing to save fav
 <p align="center">
   <img src="images/GetFollowers/GetFollowers1.png" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/GetFollowers/GetFollowers2.png" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/GetFollowers/GetFollowers.gif" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/GetFollowers/getfollowers.gif" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
