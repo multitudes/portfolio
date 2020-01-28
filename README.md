@@ -5,9 +5,9 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 
 # iOS Apps
 ## GetFollowers
-GetFollowers is a take home project iOS app created during the Sean Allen's tutorial. 
+GetFollowers is a typical take home project iOS app created during the Sean Allen's tutorial. 
 
-Using the GitHub API, it displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
 
 <p align="center">
   <img src="images/GetFollowers/GetFollowers1.png" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
