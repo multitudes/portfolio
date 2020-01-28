@@ -4,6 +4,19 @@
 This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. 
 
 # iOS Apps
+## GetFollowers
+GetFollowers is a take home project iOS app created during the Sean Allen's tutorial. 
+
+Using the GitHub API, it displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+
+<p align="center">
+  <img src="images/GetFollowers/GetFollowers1.png" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/GetFollowers/GetFollowers2.png" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/GetFollowers/GetFollowers.gif" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
 ## PushingBoundaries
 PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany, which I recently built during my internship. The specs were to build a basic museum app, and later to extend it with augmented reality. I decided to build something a bit more informative, creative, and colourful than just a basic AR app. The 3D models are organized in a table view for easy scrolling and searching.
 
