@@ -39,9 +39,9 @@ I enjoyed doing the project. It has not been trivial and I used emojis for the c
 
 <br>
 <p align="center">
-  <img src="images/emojiMemoryCards/emojiMemoryCards2.png" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/emojiMemoryCards/emojiMemoryCards3.png" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/emojiMemoryCards/emojiMemoryCards2.png" width="190"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/emojiMemoryCards/emojiMemoryCards3.png" width="190"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="190"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Thanks for stopping by!
