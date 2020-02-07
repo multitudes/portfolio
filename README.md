@@ -37,10 +37,11 @@ I coded it in Xcode Playgrounds for mac using the Live View.
 it only has three states: the player has chosen zero cards, the player has chosen one card (flip it over), and the player has chosen two cards (flip the second one over). When they’ve chosen two cards I need to decide whether I have a match, then either remove the cards or flip them back down and go back to the first state.   
 I enjoyed doing the project. It has not been trivial and I used emojis for the cards. To do so I had to convert a font or character to an image with a string extension. Many things in this project have required careful consideration. For fun, I have emoji confetti to be shown when the game ends and made extensive use of iOS animations.
 
+<br>
 <p align="center">
-  <img src="images/emojiMemoryCards/emojiMemoryCards2.png" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/emojiMemoryCards/emojiMemoryCards3.png" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/emojiMemoryCards/emojiMemoryCards2.png" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/emojiMemoryCards/emojiMemoryCards3.png" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="200"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Thanks for stopping by!
