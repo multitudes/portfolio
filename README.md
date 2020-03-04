@@ -28,13 +28,14 @@ I'm pleased with how the project came out. I like the app's responsiveness, UI d
   <img src="images/PushingBoundaries/pushingBoundaries3.gif" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-# iOS Apps
 ## CoffeeSearch
 
 CoffeeSearch is a side project iOS app built in my free time. 
 Using a webscraper written in Python and creating my own API, it displays the coffee sortiment for different coffee roasteries in Berlin, allowing to save favorites and visit the profile website of selected shops.  
 
 Using the new diffing algorithm introduced by Apple in WWDC2019, it updates the collection view in real time upon entering or updating the search terms.  
+
+The app is optimized for dark mode.
 
 <br></br>
 <p align="center">
