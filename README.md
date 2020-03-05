@@ -45,6 +45,18 @@ The app is optimized for dark mode.
 </p>
 
 # iOS Projects
+## My Personal Blog using Swift
+
+I have been hosting my personal blog and website on [Github](https://multitudes.github.io) for quite some time, and when I heard that John Sundell announced his [`Publish`](https://github.com/johnsundell/publish) framework to make static webpage with Swift I was intrigued. 
+
+I made and customised my website now entirely using Swift built as a package in Xcode on my mac locally and then synced to GitHub pages.
+
+<br></br>
+<p align="center">
+<img src="images/blog/blogMadeInSwift.png" width="730"  title="blog">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
+
+
 ## Playground: Emoji Memory Game
 
 This is the final project for the certificate of the 100 Days of Swift by Paul Hudson. The challenge was to create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs.  
