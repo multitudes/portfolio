@@ -19,7 +19,7 @@ The app is optimized for dark mode.
 <img src="images/coffeeSearch/xoffeeSearch2.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/coffeeSearch/xoffeeSearch3.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<br></br>
 
 ## GetFollowers
 GetFollowers is a typical take home project iOS app created during the Sean Allen's tutorial. 
@@ -31,7 +31,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 <img src="images/GetFollowers/GetFollowers2.png" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/GetFollowers/getfollowers.gif" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<br></br>
 ## PushingBoundaries
 PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany, which I recently built during my internship. The specs were to build a basic museum app, and later to extend it with augmented reality. I decided to build something a bit more informative, creative, and colourful than just a basic AR app. The 3D models are organized in a table view for easy scrolling and searching.
 
@@ -42,7 +42,7 @@ I'm pleased with how the project came out. I like the app's responsiveness, UI d
 <img src="images/PushingBoundaries/pushingBoundaries2.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/PushingBoundaries/pushingBoundaries3.gif" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<br></br>
 
 # iOS Projects
 ## My Personal Blog using Swift
@@ -55,7 +55,7 @@ I made and customised my website now entirely using Swift built as a package in 
 <p align="center">
 <img src="images/blog/blogMadeInSwift.png" width="750"  title="blog">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
-
+<br></br>
 
 ## Playground: Emoji Memory Game
 
@@ -70,6 +70,7 @@ I enjoyed doing the project. It has not been trivial and I used emojis for the c
   <img src="images/emojiMemoryCards/emojiMemoryCards3.png" width="190"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/emojiMemoryCards/emojiMemoryCards.gif" width="190"  title="Emoji Memory Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<br></br>
 
 ### Thanks for stopping by!
 
