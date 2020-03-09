@@ -13,31 +13,32 @@ Using the new diffing algorithm introduced by Apple in WWDC2019, it updates the 
 
 The app is optimized for dark mode.
 
-<br></br>
+<br>
 <p align="center">
   <img src="images/coffeeSearch/xoffeeSearch1.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/coffeeSearch/xoffeeSearch2.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/coffeeSearch/xoffeeSearch3.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br></br>
+<br>
 
 ## GetFollowers
 GetFollowers is a typical take home project iOS app created during the Sean Allen's tutorial. 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
-<br></br>
+
+<br>
 <p align="center">
   <img src="images/GetFollowers/GetFollowers1.png" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/GetFollowers/GetFollowers2.png" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/GetFollowers/getfollowers.gif" width="230"  title="GetFollowers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br></br>
+<br>
 
 ## PushingBoundaries
 PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany, which I recently built during my internship. The specs were to build a basic museum app, and later to extend it with augmented reality. I decided to build something a bit more informative, creative, and colourful than just a basic AR app. The 3D models are organized in a table view for easy scrolling and searching.
 
 I'm pleased with how the project came out. I like the app's responsiveness, UI design, and easily-extended architecture. PushingBoundaries was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design and makes extensive use of UIView animations.  
-
+<br>
 <p align="center">
   <img src="images/PushingBoundaries/pushingBoundaries1.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/PushingBoundaries/pushingBoundaries2.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
