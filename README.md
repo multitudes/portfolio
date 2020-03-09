@@ -49,7 +49,7 @@ I'm pleased with how the project came out. I like the app's responsiveness, UI d
 # iOS Projects
 ## My Personal Blog using Swift
 
-I have been hosting my personal blog and website on [Github](https://multitudes.github.io) for quite some time, and when I heard that John Sundell announced his [`Publish`](https://github.com/johnsundell/publish) framework to make static webpage with Swift I was intrigued. 
+I have been hosting [my personal blog and website](https://multitudes.github.io) on my [Github](https://github.com/multitudes) for quite some time, and when I heard that John Sundell announced his [`Publish`](https://github.com/johnsundell/publish) framework to make static webpage with Swift I was intrigued. 
 
 I made and customised my website now entirely using Swift built as a package in Xcode on my mac locally and then synced to GitHub pages.
 
