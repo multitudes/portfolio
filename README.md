@@ -11,7 +11,7 @@ Using a webscraper written in Python and creating my own API, it displays the co
 
 Using the new diffing algorithm introduced by Apple in WWDC2019, it updates the collection view in real time upon entering or updating the search terms.  
 
-The app is optimized for dark mode.
+The app is optimized for dark mode and developed entirely programmatically in code.
 
 <br>
 <p align="center">
