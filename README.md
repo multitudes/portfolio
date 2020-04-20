@@ -19,7 +19,7 @@ I'm pleased with how the project came out. I like the app's responsiveness, UI d
 <br></br>
 
 ## GetFollowers
-GetFollowers is a typical take home project iOS app created during the Sean Allen's intermediate iOS tutorial ('Take Home Project')[https://seanallen.teachable.com/courses/enrolled/681906]. 
+GetFollowers is a typical take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
 
