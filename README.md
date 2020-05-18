@@ -18,6 +18,24 @@ I'm pleased with how the project came out. I like the app's responsiveness, UI d
 </p>
 <br></br>
 
+## CoffeeSearch
+
+CoffeeSearch is a side project iOS app built in my free time. 
+Using a webscraper written in Python and creating my own API, it displays the coffee sortiment for different coffee roasteries in Berlin, allowing to save favorites and visit the profile website of selected shops.  
+
+Using the new diffing algorithm introduced by Apple in WWDC2019, it updates the collection view in real time upon entering or updating the search terms.  
+
+The app is optimized for dark mode and developed entirely programmatically in code.
+
+<br>
+<p align="center">
+  <img src="images/coffeeSearch/xoffeeSearch1.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/coffeeSearch/xoffeeSearch2.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/coffeeSearch/xoffeeSearch3.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+
+
 ## GetFollowers
 GetFollowers is a typical take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
@@ -71,22 +89,6 @@ I enjoyed doing the project. It has not been trivial and I used emojis for the c
 
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-<!--
-## CoffeeSearch
 
-CoffeeSearch is a side project iOS app built in my free time. 
-Using a webscraper written in Python and creating my own API, it displays the coffee sortiment for different coffee roasteries in Berlin, allowing to save favorites and visit the profile website of selected shops.  
 
-Using the new diffing algorithm introduced by Apple in WWDC2019, it updates the collection view in real time upon entering or updating the search terms.  
 
-The app is optimized for dark mode and developed entirely programmatically in code.
-
-<br>
-<p align="center">
-  <img src="images/coffeeSearch/xoffeeSearch1.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/coffeeSearch/xoffeeSearch2.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/coffeeSearch/xoffeeSearch3.png" width="230"  title="coffeeSearch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-
--->
