@@ -28,7 +28,7 @@ The first screen is built using the new compositional layout and it is a whole U
 <p align="center">
   <img src="images/Charly/charly1.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/Charly/charly2.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/Charly/charly-portfolio.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/Charly/charly-portfolio.gif" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
