@@ -18,6 +18,20 @@ I'm pleased with how the project came out. I like the app's responsiveness, UI d
 </p>
 <br></br>
 
+## Recipes
+A small recipe app which allows the user to manage cooking recipes.
+When first started it will display a blank page and initialize an empty JSON file in the document directory. If using the simulator the directory will be displayed in the console and you can copy the contents of the folder "starting json and images to copy in Documents" into the documents directory if you like to have some rows to play with. (PS. It will not work with other images. It is always possible to select images in the Photo App though)
+
+The first screen is built using the new compositional layout and it is a whole UICollectionView. The app support dark mode and dynamic type.
+
+<br>
+<p align="center">
+  <img src="images/Charly/charly1.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Charly/charly2.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/Charly/charly-portfolio.png" width="230"  title="PushingBoundaries">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
 ## CoffeeSearch
 
 CoffeeSearch is a side project iOS app built in my free time. 
