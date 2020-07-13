@@ -96,6 +96,7 @@ I enjoyed doing the project. It has not been trivial and I used emojis for the c
 
 # Contact Info:
 
+- Links: https://linktr.ee/LaurentBrusa
 - Email: laurentbrusa@me.com
 - LinkedIn: [LaurentBrusa](https://www.linkedin.com/in/laurentbrusa)
 - Twitter: [@wrmultitudes](https://twitter.com/wrmultitudes)
