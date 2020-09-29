@@ -39,10 +39,10 @@ This app is in beta and is currently being uploaded to TestFlighht
 
 <br>
 <p align="center">
-  <img src="images/ww1.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/ww11.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ww2.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/ww3.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/wwcc/ww1.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/wwcc/ww11.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/wwcc/ww2.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/wwcc/ww3.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
@@ -73,9 +73,9 @@ We are inviting you to close your eyes and observe your breath for two minutes, 
 
 <br>
 <p align="center">
-  <img src="screens/airlock0.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="screens/airlock1.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screens/airlock.gif" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/airlock/airlock0.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/airlock/airlock1.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/airlock/airlock.gif" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
