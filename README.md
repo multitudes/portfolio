@@ -31,6 +31,63 @@ The app support dark mode and dynamic type. The code is on [GitHub](https://gith
 </p>
 <br></br>
 
+## World Coffee Cupping App
+
+This app is in beta and is currently being uploaded to TestFlighht
+
+#### A beautiful coffee timer for the world coffee cupping held by James Hoffmann
+
+<br>
+<p align="center">
+  <img src="images/ww1.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/ww11.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ww2.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/ww3.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
+This app is a timer app for professional coffee tasters and amateurs.  
+
+James Hoffmann launched the first World Wide Coffee Cupping in 2019, and this app is a sort of homage to the idea.  
+
+Coffee professional from all over the world receives five samples of each a different coffee to cup. Tasting the coffee in this way is usually referred to as cupping in professional coffee circles.  
+
+This app provides a timer allowing 15 seconds per cup to pour the water and then alerting after four minutes when it is time to break.  
+
+To do this, you will use a spoon and gently stir and break the upper crust of coffee which has formed on the surface and at the same time smell the wet aromas.  
+
+After this action, repeated five times for each cup, the timer goes on for another four minutes after then it is ok to start slurping the coffee taking a bit of it in your spoon if the temperature allows it.  
+
+The coffee will eventually cool down, and the cupping finishes after 15 minutes.  
+
+## # Airlock
+
+This app is currently on TestFlight!  
+https://testflight.apple.com/join/rfPbYjXH
+
+## A two minutes meditation app.
+
+The concept of the app is simple. 
+
+We are inviting you to close your eyes and observe your breath for two minutes, the bare minimum of a unit of time. But did you ever realise how long are two minutes when you close your eyes?
+
+<br>
+<p align="center">
+  <img src="screens/airlock0.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="screens/airlock1.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screens/airlock.gif" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
+
+You press the button and start to meditate, giving awareness to your breath, just observing. You might think two minutes is not enough, and you would be right, but the purpose here is not enlightenment, but getting the chance to come down for a moment, and get a fresh mind. 
+Often we rush through things in life. From a stressful commute, an intense meeting to another challenging situation.  
+
+In all these cases, are we often not aware of how we carry our emotions from place to place, meeting to meeting.  
+Two minutes of observing your breath are what you need to collect your thought, examine yourself and your sensation, re-base and be ready again.   
+Sometimes important decisions and conversations benefit from a fresh and mindful start.
+
+
 ## CoffeeSearch
 
 CoffeeSearch is a side project iOS app built in my free time. 
