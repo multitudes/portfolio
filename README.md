@@ -40,7 +40,6 @@ This app is in beta and is currently being uploaded to TestFlighht
 <br>
 <p align="center">
   <img src="images/wwcc/ww1.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/wwcc/ww11.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/wwcc/ww2.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/wwcc/ww3.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
