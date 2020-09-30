@@ -83,8 +83,7 @@ You press the button and start to meditate, giving awareness to your breath, jus
 Often we rush through things in life. From a stressful commute, an intense meeting to another challenging situation.  
 
 In all these cases, are we often not aware of how we carry our emotions from place to place, meeting to meeting.  
-Two minutes of observing your breath are what you need to collect your thought, examine yourself and your sensation, re-base and be ready again.   
-Sometimes important decisions and conversations benefit from a fresh and mindful start.
+Two minutes of observing your breath are what you need to collect your thought, examine yourself and your sensation, re-base and be ready to benefit from a fresh and mindful start.
 
 
 ## CoffeeSearch
