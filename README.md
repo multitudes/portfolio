@@ -38,6 +38,7 @@ https://testflight.apple.com/join/wSaG1GYU
 
 #### A beautiful coffee timer for the world coffee cupping held by James Hoffmann:
 
+You can read more about the event here:
 https://www.worldslargestcoffeetasting.com
 
 This app is a timer app for professional coffee tasters and amateurs. 
