@@ -36,8 +36,8 @@ The app support dark mode and dynamic type. The code is on [GitHub](https://gith
 This app is currently in beta on TestFlight.  
 https://testflight.apple.com/join/wSaG1GYU
 
-#### A beautiful coffee timer for the (world coffee cupping)[https://www.worldslargestcoffeetasting.com] held by James Hoffmann
-
+#### A beautiful coffee timer for the world coffee cupping held by James Hoffmann:
+https://www.worldslargestcoffeetasting.com
 <br>
 <p align="center">
   <img src="images/wwcc/ww1.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
