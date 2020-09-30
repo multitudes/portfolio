@@ -37,7 +37,11 @@ This app is currently in beta on TestFlight.
 https://testflight.apple.com/join/wSaG1GYU
 
 #### A beautiful coffee timer for the world coffee cupping held by James Hoffmann:
+
 https://www.worldslargestcoffeetasting.com
+
+This app is a timer app for professional coffee tasters and amateurs. 
+
 <br>
 <p align="center">
   <img src="images/wwcc/ww1.png" width="230"  title="WorldCoffeeCuppingApp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,9 +50,7 @@ https://www.worldslargestcoffeetasting.com
 </p>
 <br></br>
 
-This app is a timer app for professional coffee tasters and amateurs.  
-
-James Hoffmann launched the first World Wide Coffee Cupping in 2019, and this app is a sort of homage to the idea.  
+James Hoffmann launched the first World Wide Coffee Cupping in 2019, and this app is a sort of homage to the idea of having a worldwide coffee tasting and possibly live with the event streamed on YouTube. If you miss the event then you can watch it later and follow on youtube, or you can use this app!  
 
 Coffee professional from all over the world receives five samples of each a different coffee to cup. Tasting the coffee in this way is usually referred to as cupping in professional coffee circles.  
 
