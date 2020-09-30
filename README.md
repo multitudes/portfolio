@@ -41,7 +41,7 @@ https://testflight.apple.com/join/wSaG1GYU
 You can read more about the event here:
 https://www.worldslargestcoffeetasting.com
 
-This app is a timer app for professional coffee tasters and amateurs. 
+This app is a timer app for professional coffee tasters and amateurs and it is written completely in SwiftUI 2.0 Universal and therefore requires iOS14.  
 
 <br>
 <p align="center">
