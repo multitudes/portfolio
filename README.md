@@ -33,10 +33,10 @@ The app support dark mode and dynamic type. The code is on [GitHub](https://gith
 
 ## World Coffee Cupping App
 
-This app is currently in beta on TestFlight!  
+This app is currently in beta on TestFlight.  
 https://testflight.apple.com/join/wSaG1GYU
 
-#### A beautiful coffee timer for the world coffee cupping held by James Hoffmann
+#### A beautiful coffee timer for the (world coffee cupping)[https://www.worldslargestcoffeetasting.com] held by James Hoffmann
 
 <br>
 <p align="center">
@@ -62,7 +62,7 @@ The coffee will eventually cool down, and the cupping finishes after 15 minutes.
 
 ## Airlock
 
-This app is currently in beta on TestFlight!  
+This app is currently in beta on TestFlight.  
 https://testflight.apple.com/join/rfPbYjXH
 
 #### A two minutes meditation app.
