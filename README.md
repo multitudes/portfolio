@@ -16,12 +16,12 @@ The code and more documentation about this project are on [GitHub](https://githu
 
 <br>
 <p align="center">
-  <img src="images/ReadMe-Images/loc1.png" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ReadMe-Images/loc2.png" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ReadMe-Images/loc3.png" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/ReadMe-Images/loc4.png" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ReadMe-Images/loc5.png" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ReadMe-Images/loc6.png" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/ReadMe-Images/loc1.jpg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/loc2.jpg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/loc3.jpg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/ReadMe-Images/loc4.jpg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/loc5.jpg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/loc6.jpg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
