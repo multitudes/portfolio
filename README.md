@@ -5,6 +5,25 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 
 # iOS Apps
 
+## NiceWeather
+
+This is a proof of concept app. A weather app using the [openweathermap](https://openweathermap.org) RESTful API and displaying the weather for different cities in a customisable picker.  
+The app is entirely written in Swift without external libraries. I developed the app using the new Apple framework SwiftUI universal. It will work on iPhone iPad and even on macOS using Catalyst.  
+
+After rewatching the WWDC 2020 video about localisation, I applied what I learned to the small side project I was working on, and I was surprised how easy it is to add support for like ten and more languages just out of the box with very little code and effort!  
+
+The code and more documentation about this project are on [GitHub](https://github.com/multitudes/NiceWeather/blob/main/README.md)
+
+<br>
+<p align="center">
+  <img src="images/ReadMe-Images/loc1.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/loc2.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/loc3.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/ReadMe-Images/loc4.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/loc5.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/loc6.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
 
 ## PushingBoundaries
 PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany, which I recently built during my internship. The specs were to build a basic museum app, and later to extend it with augmented reality. I decided to build something a bit more informative, creative, and colourful than just a basic AR app. The 3D models are organized in a table view for easy scrolling and searching.
