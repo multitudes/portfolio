@@ -18,9 +18,9 @@ Please see more documentation about this project and the code [here](https://git
 
 <br>
 <p align="center">
-  <img src="ReadMe-Images/niceweather.jpeg" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="ReadMe-Images/niceweather1.jpeg" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="ReadMe-Images/niceweather.gif" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/ReadMe-Images/niceweather.jpeg" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/niceweather1.jpeg" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ReadMe-Images/niceweather.gif" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
