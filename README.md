@@ -18,12 +18,9 @@ Please see more documentation about this project and the code [here](https://git
 
 <br>
 <p align="center">
-  <img src="images/ReadMe-Images/loc1.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ReadMe-Images/loc2.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ReadMe-Images/loc3.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/ReadMe-Images/loc4.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ReadMe-Images/loc5.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ReadMe-Images/loc6.jpeg" width="115"  title="NiceWeather Localised">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="ReadMe-Images/niceweather.jpeg" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="ReadMe-Images/niceweather1.jpeg" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="ReadMe-Images/niceweather.gif" width="230"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
