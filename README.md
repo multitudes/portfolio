@@ -144,7 +144,8 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 
 I have been hosting [my personal blog and website](https://multitudes.github.io) on my [Github](https://github.com/multitudes) for quite some time, and when I heard that John Sundell announced his [`Publish`](https://github.com/johnsundell/publish) framework to make static webpage with Swift I was intrigued. 
 
-I made and customised my website now entirely using Swift built as a package in Xcode on my mac locally and then synced to GitHub pages.
+I made and customised my website now entirely using Swift built as a package in Xcode on my mac locally and then synced to GitHub pages.  
+(Since summer 2020 I moved my blog to hashnode for better visibility [https://laurentbrusa.hashnode.dev](https://laurentbrusa.hashnode.dev))
 
 <br></br>
 <p align="center">
