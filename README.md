@@ -89,7 +89,8 @@ https://testflight.apple.com/join/rfPbYjXH
 
 The concept of the app is simple. 
 
-We are inviting you to close your eyes and observe your breath for two minutes, the bare minimum of a unit of time. But did you ever realise how long are two minutes when you close your eyes?
+The best ideas are coming when the mind is relaxed and alert at the same time.  
+This app will allow you to practice, with the option to record your thoughts in a diary.
 
 <br>
 <p align="center">
@@ -99,12 +100,11 @@ We are inviting you to close your eyes and observe your breath for two minutes, 
 </p>
 <br></br>
 
-
-You press the button and start to meditate, giving awareness to your breath, just observing. You might think two minutes is not enough, and you would be right, but the purpose here is not enlightenment, but getting the chance to come down for a moment, and get a fresh mind. 
-Often we rush through things in life. From a stressful commute, an intense meeting to another challenging situation.  
-
-In all these cases, are we often not aware of how we carry our emotions from place to place, meeting to meeting.  
-Two minutes of observing your breath are what you need to collect your thought, examine yourself and your sensation, re-base and be ready to benefit from a fresh and mindful start.
+Our brain works in different modes. There is the focused mode, which helps us to solve problems but is sometimes missing the big picture. There is the diffused mode, able to work in the background which is good for creativity, and then there is the meditative mode which is both alert and relaxed at the same time. 
+This app allows you to practice short two minutes meditations. You can meditate any way you like, concentrating on your breath or sensations on your body. Try concentrating single-mindedly, remaining aware at all times. If your mind wanders, bring her back.   
+Keep your equanimity. Accept the present moment and observe it. 
+After the meditation, you can write a note to your future self, and save them to a file, visible in the Files app on your device.  
+When you feel ready, a long press on the title, allows you to select a longer meditation time. I hope you enjoy using this app!  
 
 
 ## CoffeeSearch
