@@ -5,6 +5,29 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 
 # iOS Apps
 
+## Airlock
+
+Available on the App Store! 🥰 Link:  [Airlock Meditatio‪n](https://apps.apple.com/app/id1530067435)
+
+The concept of the app is simple. 
+
+The best ideas are coming when the mind is relaxed and alert at the same time.  
+This app will allow you to practice, with the option to record your thoughts in a diary.
+
+<br>
+<p align="center">
+  <img src="images/airlock/airlock0.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/airlock/airlock1.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/airlock/airlock.gif" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
+Our brain works in different modes. There is the focused mode, which helps us to solve problems but is sometimes missing the big picture. There is the diffused mode, able to work in the background which is good for creativity, and then there is the meditative mode which is both alert and relaxed at the same time. 
+This app allows you to practice short two minutes meditations. You can meditate any way you like, concentrating on your breath or sensations on your body. Try concentrating single-mindedly, remaining aware at all times. If your mind wanders, bring her back.   
+Keep your equanimity. Accept the present moment and observe it. 
+After the meditation, you can write a note to your future self, and save them to a file, visible in the Files app on your device.  
+When you feel ready, a long press on the title, allows you to select a longer meditation time. I hope you enjoy using this app!  
+
 
 ## PushingBoundaries
 PushingBoundaries is an iOS app for the "Pushing Boundaries" 3D-print model exhibition in Germany, which I recently built during my internship. The specs were to build a basic museum app, and later to extend it with augmented reality. I decided to build something a bit more informative, creative, and colourful than just a basic AR app. The 3D models are organized in a table view for easy scrolling and searching.
@@ -79,32 +102,6 @@ To do this, you will use a spoon and gently stir and break the upper crust of co
 After this action, repeated five times for each cup, the timer goes on for another four minutes after then it is ok to start slurping the coffee taking a bit of it in your spoon if the temperature allows it.  
 
 The coffee will eventually cool down, and the cupping finishes after 15 minutes.  
-
-## Airlock
-
-This app is currently in beta on TestFlight.  
-https://testflight.apple.com/join/rfPbYjXH
-
-#### A two minutes meditation app.
-
-The concept of the app is simple. 
-
-The best ideas are coming when the mind is relaxed and alert at the same time.  
-This app will allow you to practice, with the option to record your thoughts in a diary.
-
-<br>
-<p align="center">
-  <img src="images/airlock/airlock0.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/airlock/airlock1.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/airlock/airlock.gif" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br></br>
-
-Our brain works in different modes. There is the focused mode, which helps us to solve problems but is sometimes missing the big picture. There is the diffused mode, able to work in the background which is good for creativity, and then there is the meditative mode which is both alert and relaxed at the same time. 
-This app allows you to practice short two minutes meditations. You can meditate any way you like, concentrating on your breath or sensations on your body. Try concentrating single-mindedly, remaining aware at all times. If your mind wanders, bring her back.   
-Keep your equanimity. Accept the present moment and observe it. 
-After the meditation, you can write a note to your future self, and save them to a file, visible in the Files app on your device.  
-When you feel ready, a long press on the title, allows you to select a longer meditation time. I hope you enjoy using this app!  
 
 
 ## CoffeeSearch
