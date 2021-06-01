@@ -19,9 +19,10 @@ Unfortunately the exhibition has been postponed due to Covid, but the app is rea
 
 <br>
 <p align="center">
-  <img src="images/airlock/airlock0.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/airlock/airlock1.png" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/airlock/airlock.gif" width="230"  title="Airlock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/greenBelt/gb0.jpeg" width="200"  title="greenBelt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/greenBelt/gb6.jpeg" width="200"  title="greenBelt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="images/greenBelt/gb7.jpeg" width="200"  title="greenBelt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="images/greenBelt/gb8.jpeg" width="200"  title="greenBelt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
