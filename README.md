@@ -32,6 +32,8 @@ Unfortunately the exhibition has been postponed due to Covid, but the app is rea
 
 Available on the App Store! 🥰 Link:  [Airlock Meditatio‪n](https://apps.apple.com/app/id1530067435)
 
+Written entirely in SwiftUI!
+
 The concept of the app is simple. 
 
 The best ideas are coming when the mind is relaxed and alert at the same time.  
