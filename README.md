@@ -8,7 +8,7 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 ## Das Grüne Band / The green belt app
 
 Sole developer of the iOS app for iPhone and iPad for the exhibition about the "German Green Belt" at the Thuringia Nature Conservation Foundation (Stiftung Naturschutz Thüringen) at the Egapark in Erfurt (Germany).  
-Apple store ![LINK](https://apps.apple.com/de/app/gr%C3%BCnebandbreite/id1557697472?l=en-GB).  
+Apple store [link](https://apps.apple.com/de/app/gr%C3%BCnebandbreite/id1557697472?l=en-GB).  
 As per Wiki the [German Green Belt](https://en.wikipedia.org/wiki/German_Green_Belt) (Grünes Band) is the former East-West border line converted into nature reserves:
 > The German Green Belt (Grünes Band Deutschland in German) is a project of Bund Naturschutz (BUND), one of Germany's largest environmental groups. The project began in 1989 facing a forbidding, 870-mile (1,400 km) network of fences and guard towers once ran the length of Germany, separating East and West. Now, one of the world's most unusual nature reserves is being created along the old "Death Strip," turning a monument to repression into a symbol of renewal. - Wikipedia. 
 
