@@ -5,6 +5,13 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 
 # iOS Apps
 
+## CoolCities (prototype)
+
+See the documentation at [https://multitudes.github.io/CoolCities/](https://multitudes.github.io/CoolCities/)
+
+## Dailies
+Side project. The appa uses Firebase for authentication and as database of entries.
+
 ## Das Grüne Band / The green belt app
 
 Sole developer of the iOS app for iPhone and iPad for the exhibition about the "German Green Belt" at the Thuringia Nature Conservation Foundation (Stiftung Naturschutz Thüringen) at the Egapark in Erfurt (Germany). Apple store [link](https://apps.apple.com/de/app/gr%C3%BCnebandbreite/id1557697472?l=en-GB).  
