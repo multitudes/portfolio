@@ -6,7 +6,7 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 # iOS Apps
 
 ## CoolCities (prototype)
-
+3rd Prize Cassini Hackathon 2025.  
 See the documentation at [https://multitudes.github.io/CoolCities/](https://multitudes.github.io/CoolCities/)
 
 ## Dailies
