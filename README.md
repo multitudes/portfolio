@@ -14,10 +14,7 @@ See the documentation at [https://multitudes.github.io/CoolCities/](https://mult
   <img src="images/coolcities/coolcities1.png" height="400"  title="coolcities1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/coolcities/coolcities2.png" height="400"  title="coolcities1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/coolcities/coolcities3.png" height="400"  title="coolcities1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <video height="400" controls poster="images/coolcities/coolcities1.png" style="border: 1px solid #ddd; border-radius: 8px;">
-    <source src="images/coolcities/coolcities.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="images/coolcities/coolcities.gif" height="400" style="border: 1px solid #ddd; border-radius: 8px;" title="coolcities demo">
 </p>
 
 CoolCities combines data from Copernicus Sentinel 2 and 3 to detect land temperature and vegetation cooling, providing temperature maps at 10 m resolution.
