@@ -9,14 +9,16 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 3rd Prize Cassini Hackathon 2025.  
 See the documentation at [https://multitudes.github.io/CoolCities/](https://multitudes.github.io/CoolCities/).  
 
-<!-- <br>
+<br>
 <p align="center">
-  <img src="images/greenBelt/gb0.jpeg" height="400"  title="greenBelt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.youtube.com/watch?v=s37NLPnoUdk" target="_blank">
-    <img src="https://img.youtube.com/vi/s37NLPnoUdk/0.jpg" alt="Watch the video" height="400" style="border: 1px solid #ddd; border-radius: 8px;">
-  </a>
-</p> -->
+  <img src="images/coolcities/coolcities1.png" height="400"  title="coolcities1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/coolcities/coolcities2.png" height="400"  title="coolcities1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/coolcities/coolcities3.png" height="400"  title="coolcities1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <video height="400" controls poster="images/coolcities/coolcities1.png" style="border: 1px solid #ddd; border-radius: 8px;">
+    <source src="images/coolcities/coolcities.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 CoolCities combines data from Copernicus Sentinel 2 and 3 to detect land temperature and vegetation cooling, providing temperature maps at 10 m resolution.
 Galileo global navigation satellites provide precise positioning for routing through the temperature map.
