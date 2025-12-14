@@ -10,7 +10,7 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 See the documentation at [https://multitudes.github.io/CoolCities/](https://multitudes.github.io/CoolCities/)
 
 ## Dailies
-Side project. The appa uses Firebase for authentication and as database of entries.
+Side project. The app uses Firebase for authentication and as database of entries.
 
 ## Das Grüne Band / The green belt app
 
