@@ -7,7 +7,15 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 
 ## CoolCities (prototype)
 3rd Prize Cassini Hackathon 2025.  
-See the documentation at [https://multitudes.github.io/CoolCities/](https://multitudes.github.io/CoolCities/)
+See the documentation at [https://multitudes.github.io/CoolCities/](https://multitudes.github.io/CoolCities/).  
+<div style="text-align:center; margin: 20px 0;">
+  <a href="https://www.youtube.com/watch?v=s37NLPnoUdk" target="_blank">
+    <img src="https://img.youtube.com/vi/s37NLPnoUdk/0.jpg" alt="Watch the video" width="560" style="border: 1px solid #ddd; border-radius: 8px;">
+  </a>
+</div>
+CoolCities combines data from Copernicus Sentinel 2 and 3 to detect land temperature and vegetation cooling, providing temperature maps at 10 m resolution.
+Galileo global navigation satellites provide precise positioning for routing through the temperature map.
+CoolCities translates EU space data into user maps.
 
 ## Dailies
 Side project. The app uses Firebase for authentication and as database of entries.
