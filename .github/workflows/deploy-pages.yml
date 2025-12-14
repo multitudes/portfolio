@@ -1,0 +1,30 @@
+name: Deploy to GitHub Pages
+
+on:
+    push:
+        branches:
+            - main # change to your default branch name if it's not `main`
+
+permissions:
+    contents: read
+    pages: write
+    id-token: write
+
+concurrency:
+    group: pages-deploy
+    cancel-in-progress: true
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Upload artifact for GitHub Pages
+              uses: actions/upload-pages-artifact@v1
+              with:
+                  path: docs
+
+            - name: Deploy to GitHub Pages
+              uses: actions/deploy-pages@v1
