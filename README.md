@@ -8,11 +8,16 @@ This repo serves as a kind of ever-changing portfolio of projects I'm currently 
 ## CoolCities (prototype)
 3rd Prize Cassini Hackathon 2025.  
 See the documentation at [https://multitudes.github.io/CoolCities/](https://multitudes.github.io/CoolCities/).  
-<div style="text-align:center; margin: 20px 0;">
+
+<!-- <br>
+<p align="center">
+  <img src="images/greenBelt/gb0.jpeg" height="400"  title="greenBelt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.youtube.com/watch?v=s37NLPnoUdk" target="_blank">
-    <img src="https://img.youtube.com/vi/s37NLPnoUdk/0.jpg" alt="Watch the video" width="560" style="border: 1px solid #ddd; border-radius: 8px;">
+    <img src="https://img.youtube.com/vi/s37NLPnoUdk/0.jpg" alt="Watch the video" height="400" style="border: 1px solid #ddd; border-radius: 8px;">
   </a>
-</div>
+</p> -->
+
 CoolCities combines data from Copernicus Sentinel 2 and 3 to detect land temperature and vegetation cooling, providing temperature maps at 10 m resolution.
 Galileo global navigation satellites provide precise positioning for routing through the temperature map.
 CoolCities translates EU space data into user maps.
