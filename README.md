@@ -21,8 +21,15 @@ CoolCities combines data from Copernicus Sentinel 2 and 3 to detect land tempera
 Galileo global navigation satellites provide precise positioning for routing through the temperature map.
 CoolCities translates EU space data into user maps.
 
-## Dailies
+<!-- ## Dailies
 Side project. The app uses Firebase for authentication and as database of entries.
+
+Every developer enters in the app what they are working on. Like in the daily stand-up process used in many companies, they provide answers to the standard questions:
+- What did I do yesterday?
+- What will I do today?
+- Is anything blocking me?
+
+This status is shared across the team (including the Scrum Master or Manager) to keep everyone aligned.   -->
 
 ## Das Grüne Band / The green belt app
 
